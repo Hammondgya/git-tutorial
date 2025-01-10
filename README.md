@@ -1,3 +1,3 @@
 Git Tutorial
 Hammond
-\nUChicago Student Resource Guide
+UChicago Student Resource Guide
